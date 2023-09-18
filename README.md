@@ -1,17 +1,29 @@
-# calculator_app
+# Flutter Calculator App
+# CODSOFT
 
-CODSOFT
+This is a simple calculator app built with Flutter. It provides basic arithmetic operations like addition, subtraction, multiplication, and division, along with other functionalities such as percentage calculations.
+
+## Features
+
+- Arithmetic operations (+, -, *, /)
+- Percentage calculation
+- Clear and delete functionality
+- Error handling with notifications
+
 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository to your local machine.
+2. Open the project in Flutter-compatible IDE (e.g., Visual Studio Code).
+3. Run the app on your preferred emulator or physical device.
 
-A few resources to get you started if this is your first Flutter project:
+Feel free to explore, modify, and use this calculator app as a starting point for your own Flutter projects.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
